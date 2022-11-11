@@ -452,3 +452,11 @@ form
   letter-spacing: 1px;
   font-size: 20px;
 }
+section, header{
+  padding: 1rem;
+}
+.bold{
+  font-weight: bolder;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
